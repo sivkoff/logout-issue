@@ -19,7 +19,7 @@
     "strict": true,
     "target": "esnext",
     "typeRoots": ["./node_modules/@types", "./types"],
-    "types": ["jest", "cypress", "webpack-env"],
+    "types": [],
     "sourceRoot": "/",
     "sourceMap": true,
     "inlineSources": true,
