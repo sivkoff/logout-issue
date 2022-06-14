@@ -65,6 +65,9 @@ const Home: NextPage = () => {
           </span>
         </a>
       </footer>
+      <ul>
+        <li>Trigger app deploy</li>
+      </ul>
     </div>
   )
 }
